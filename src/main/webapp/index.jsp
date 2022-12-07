@@ -8,7 +8,7 @@
 </head>
 <style>
 body{
-background-immage:url('Downloads/devops.jpg');
+background-immage:url('c:/Downloads/devops.jpg');
 }
     h2{
         color: blue;
