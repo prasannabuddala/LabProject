@@ -9,13 +9,12 @@
 <style>
 body{
             background-image: url('devops.jpg');
-            opacity: 0.3;
             background-repeat: no-repeat;
             background-attachment: fixed;
             background-size: 100% 100%;
 }
     h2{
-        color: blue;
+        color: white;
         text-align: center;
     }
 </style>
