@@ -9,6 +9,7 @@
 <style>
 body{
             background-image: url('devops.jpg');
+            opacity: 0.3;
             background-repeat: no-repeat;
             background-attachment: fixed;
             background-size: 100% 100%;
