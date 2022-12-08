@@ -8,7 +8,10 @@
 </head>
 <style>
 body{
-background-immage:url('devops.jpg');
+            background-image: url('devops.jpg');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
 }
     h2{
         color: blue;
