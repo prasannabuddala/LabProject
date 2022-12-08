@@ -11,7 +11,7 @@ body{
             background-image: url('devops.jpg');
             background-repeat: no-repeat;
             background-attachment: fixed;
-            background-size: cover;
+            background-size: 100% 100%;
 }
     h2{
         color: blue;
