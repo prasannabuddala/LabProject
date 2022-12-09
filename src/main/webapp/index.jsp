@@ -8,7 +8,7 @@
 </head>
 <style>
 body{
-            background-image: url('bgimg.jpg');
+            background-image: url('img3.jpg');
             background-repeat: no-repeat;
             background-attachment: fixed;
             background-size: cover;
