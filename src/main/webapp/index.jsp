@@ -11,7 +11,7 @@ body{
             background-image: url('bgimg.jpg');
             background-repeat: no-repeat;
             background-attachment: fixed;
-            background-size: 100% 100%;
+            background-size: cover;
 }
     h2{
         color: black;
