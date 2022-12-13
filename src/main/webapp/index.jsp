@@ -20,7 +20,7 @@ body{
         color: white;
     }
     .lab{
-  font-size: 80px;
+  font-size: 50px;
   color: #fff;
   text-align: center;
   animation: glow 1s ease-in-out infinite alternate;
