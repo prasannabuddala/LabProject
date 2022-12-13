@@ -72,6 +72,10 @@ body{
             i++;
         }
         setInterval(fun,1000);
-        window.scrollTo(0,document.body.scrollHeight);
+    function autoScrolling() {
+   window.scrollTo(0,document.body.scrollHeight);
+}
+
+setInterval(autoScrolling, 5000); 
 </script>
 </html>
