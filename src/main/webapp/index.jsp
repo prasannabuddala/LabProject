@@ -17,33 +17,50 @@ body{
         color: black;
         text-align: center;
         font-family: cursive;
+        color: white;
     }
+    .lab{
+  font-size: 80px;
+  color: #fff;
+  text-align: center;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+  }
+  
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+  }
+}
 </style>
 <body>
 <br>
-    <h2 id="id1"></h2>
-    <h2 id="id2"></h2>
-    <h2 id="id3"></h2>
-    <h2 id="id4"></h2>
-    <h2 id="id5"></h2>
-    <h2 id="id6"></h2>
-    <h2 id="id7"></h2>
-    <h2 id="id8"></h2>
-    <h2 id="id9"></h2>
-    <h2 id="id10"></h2>
-    <h2 id="id11"></h2>
-    <h2 id="id12"></h2>
-    <h2 id="id13"></h2>
-    <h2 id="id14"></h2>
-    <h2 id="id15"></h2>
-    <h2 id="id16"></h2>
-    <h2 id="id17"></h2>
-    <h2 id="id18"></h2>
-    <h2 id="id19"></h2>
-    <h2 id="id20"></h2>
-    <h2 id="id21"></h2>
-    <h2 id="id22"></h2>
-    <h2 id="id23"></h2>
+    <h2 id="id1" class="lab"></h2>
+    <h2 id="id2" class="lab"></h2>
+    <h2 id="id3" class="lab"></h2>
+    <h2 id="id4" class="lab"></h2>
+    <h2 id="id5" class="lab"></h2>
+    <h2 id="id6" class="lab"></h2>
+    <h2 id="id7" class="lab"></h2>
+    <h2 id="id8" class="lab"></h2>
+    <h2 id="id9" class="lab"></h2>
+    <h2 id="id10" class="lab"></h2>
+    <h2 id="id11" class="lab"></h2>
+    <h2 id="id12" class="lab"></h2>
+    <h2 id="id13" class="lab"></h2>
+    <h2 id="id14" class="lab"></h2>
+    <h2 id="id15" class="lab"></h2>
+    <h2 id="id16" class="lab"></h2>
+    <h2 id="id17" class="lab"></h2>
+    <h2 id="id18" class="lab"></h2>
+    <h2 id="id19" class="lab"></h2>
+    <h2 id="id20" class="lab"></h2>
+    <h2 id="id21" class="lab"></h2>
+    <h2 id="id22" class="lab"></h2>
+    <h2 id="id23" class="lab"></h2>
 </body>
 <script>
     let i=0;
