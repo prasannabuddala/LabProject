@@ -32,7 +32,7 @@ body{
   }
   
   to {
-    text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+    text-shadow: 0 0 20px #fff, 0 0 30px #171de7, 0 0 40px #171de7, 0 0 50px #171de7, 0 0 60px #171de7, 0 0 70px #171de7, 0 0 80px #171de7;
   }
 }
 </style>
