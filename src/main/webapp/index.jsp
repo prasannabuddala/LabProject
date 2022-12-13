@@ -71,7 +71,11 @@ body{
             document.getElementById(j).innerHTML="welcome everyone, it's DevOps lab:)";
             i++;
         }
-    window.scrollTo(0,document.body.scrollHeight);
         setInterval(fun,1000);
+    function autoScrolling() {
+   window.scrollTo(0,document.body.scrollHeight);
+}
+
+setInterval(autoScrolling, 1000); 
 </script>
 </html>
