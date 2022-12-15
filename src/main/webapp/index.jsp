@@ -10,9 +10,6 @@
 <style>
     body {
         background-color: #212428;
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-size: cover;
     }
 
     h2 {
