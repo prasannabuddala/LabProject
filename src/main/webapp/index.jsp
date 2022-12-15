@@ -9,7 +9,7 @@
 </head>
 <style>
     body {
-        background-image: url('Screenshot (312).png');
+        background-color: #ccdded;
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover;
