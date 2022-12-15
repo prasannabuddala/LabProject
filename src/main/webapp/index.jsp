@@ -9,7 +9,7 @@
 </head>
 <style>
     body {
-        background-color: #ccdded;
+        background-color: #212428;
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover;
